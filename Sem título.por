@@ -36,8 +36,9 @@ programa
 
         imc = calcularIMC(peso, altura)
 
-        escreva("\n--- DADOS DO ALUNO ---\n")
-        escreva("Nome: ", nome, "\n")
+
+
+
         escreva("Idade: ", idade, "\n")
         escreva("Mensalidade: R$ ", mensalidade, "\n")
         escreva("IMC: ", imc, "\n")
